@@ -1,2 +1,2 @@
 # RVX
-YouTube ReVanced
+ReVanced Extended
